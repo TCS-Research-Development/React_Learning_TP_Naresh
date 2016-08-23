@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './DefaultProps.jsx';
+import App from './Events.jsx';
 
 ReactDOM.render(<App />, document.getElementById('app'));
