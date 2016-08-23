@@ -1,2 +1,7 @@
+#Exclude node modules
+
 node_modules/
-npm-debug.log
+
+#Exclude files with extention .log 
+
+*.log
